@@ -1,0 +1,25 @@
+.content {
+    margin: 0px auto;
+    justify-content: space-evenly;
+}
+
+.flex_row {
+    display: flex;
+}
+.flex_col {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_container {
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.error {
+    color: rgb(175, 0, 38);
+}
+
+.required {
+    color: rgb(175, 0, 38);
+}
